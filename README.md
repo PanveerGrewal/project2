@@ -29,7 +29,7 @@ The code defines functions to draw rectangles, triangles, and flowers. Here's an
 - The hut consists of a base, a roof, and a door.
 - Flowers are drawn with brown stems and green leaves.
 
-You can customize the code by modifying colors, dimensions, or adding more elements to the landscape.
+You can customize the code by modifying colors, and dimensions, or adding more elements to the landscape.
 
 ## Contributing
 
@@ -38,3 +38,6 @@ If you'd like to contribute to this project, please open an issue or create a pu
 ## License
 
 This project is open-source and available under the [MIT License].
+
+
+## I want to express my commitment to delivering a higher-quality project. Regrettably, I've been grappling with health issues and the added pressure of midterm exams in other subjects. so I'm unable to give the expected time to this project.  I assure you that I'm not using this as an excuse, but rather as an explanation of my current circumstances. I am sincerely grateful for your understanding in this time.
